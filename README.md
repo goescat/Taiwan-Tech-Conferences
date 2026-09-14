@@ -1,8 +1,12 @@
-# 🇹Taiwan Tech Conferences
+# Taiwan Tech Conferences
 
 > Open data for technology conferences held in Taiwan.
 
 A simple, machine-readable dataset of technology conferences in Taiwan.
+
+## API
+
+https://goescat.github.io/Taiwan-Tech-Conferences/data/conferences.json
 
 ## Data
 
@@ -37,16 +41,6 @@ Example:
 ```
 
 There is deliberately no separate API-generation layer. The JSON file itself can be served as a static API.
-
-## GitHub Pages
-
-If this repository is published with GitHub Pages, the dataset is directly available at:
-
-```text
-https://<username>.github.io/taiwan-tech-conferences/data/conferences.json
-```
-
-Consumers can use it directly with `fetch()` or any HTTP client.
 
 ## Current seed data
 
