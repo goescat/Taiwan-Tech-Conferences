@@ -1,0 +1,130 @@
+[
+  {
+    "id": "coscup",
+    "name": "COSCUP",
+    "organizer": "COSCUP",
+    "website": "https://coscup.org/",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "city": "Taipei",
+        "venue": "National Taiwan University of Science and Technology",
+        "link": "https://coscup.org/2026/en/"
+      }
+    ]
+  },
+  {
+    "id": "devopsdays-taipei",
+    "name": "DevOpsDays Taipei",
+    "organizer": "DevOpsDays Taipei",
+    "website": "https://www.devopsdays.tw/",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-06-25",
+        "end_date": "2026-06-26",
+        "city": "Taipei",
+        "venue": "Taipei New Horizon",
+        "link": "https://www.devopsdays.tw/2026/"
+      }
+    ]
+  },
+  {
+    "id": "hello-world-dev-conference",
+    "name": "Hello World Dev Conference",
+    "organizer": "iThome",
+    "website": "https://hwdc.ithome.com.tw/",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-10-14",
+        "end_date": "2026-10-15",
+        "city": "Taipei",
+        "venue": "Taipei New Horizon",
+        "link": "https://hwdc.ithome.com.tw/2026"
+      }
+    ]
+  },
+  {
+    "id": "hitcon",
+    "name": "HITCON",
+    "organizer": "Association of Hackers in Taiwan (HIT)",
+    "website": "https://hitcon.org/",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-08-21",
+        "end_date": "2026-08-22",
+        "city": "Taipei",
+        "venue": "Academia Sinica Humanities and Social Sciences Building",
+        "link": "https://hitcon.org/2026/en-US/"
+      }
+    ]
+  },
+  {
+    "id": "mopcon",
+    "name": "MOPCON",
+    "organizer": "MOPCON",
+    "website": "https://mopcon.org/",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-10-31",
+        "end_date": "2026-10-31",
+        "city": "Kaohsiung",
+        "venue": "National Kaohsiung University of Science and Technology, Nanzih Campus",
+        "link": "https://mopcon.org/2026/"
+      }
+    ]
+  },
+  {
+    "id": "pycon-taiwan",
+    "name": "PyCon Taiwan",
+    "organizer": "PyCon Taiwan",
+    "website": "https://tw.pycon.org/",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-10-17",
+        "end_date": "2026-10-18",
+        "city": "Taipei",
+        "venue": "Taipei Medical University",
+        "link": "https://tw.pycon.org/2026/en-us"
+      }
+    ]
+  },
+  {
+    "id": "sitcon",
+    "name": "SITCON",
+    "organizer": "SITCON",
+    "website": "https://sitcon.org/",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-03-28",
+        "end_date": "2026-03-28",
+        "city": "Taipei",
+        "venue": "Academia Sinica",
+        "link": "https://sitcon.org/2026/"
+      }
+    ]
+  },
+  {
+    "id": "tcse",
+    "name": "TCSE",
+    "organizer": "Software Engineering Association Taiwan (SEAT)",
+    "website": "https://www.seat.org.tw/conference/tcse",
+    "editions": [
+      {
+        "year": 2026,
+        "start_date": "2026-07-03",
+        "end_date": "2026-07-04",
+        "city": "Taichung",
+        "venue": "National Chin-Yi University of Technology",
+        "link": "https://tcse2026.seat.org.tw/"
+      }
+    ]
+  }
+]
