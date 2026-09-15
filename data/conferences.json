@@ -455,5 +455,50 @@
         "link": "https://tcse2026.seat.org.tw/"
       }
     ]
-  }
+  },
+  {
+  "id": "jsdc",
+  "name": "JSDC",
+  "organizer": "JSDC.tw",
+  "website": "https://jsdc.tw/",
+  "editions": [
+    {
+      "year": 2019,
+      "start_date": "2019-10-26",
+      "end_date": "2019-10-26",
+      "city": "Taipei",
+      "venue": "富邦國際會議中心",
+      "link": "https://2019.jsdc.tw/"
+    },
+    {
+      "year": 2020,
+      "start_date": "2020-10-17",
+      "end_date": "2020-10-17",
+      "city": "Online",
+      "link": "https://2020.jsdc.tw/"
+    },
+    {
+      "year": 2021,
+      "start_date": "2020-10-30",
+      "end_date": "2020-10-30",
+      "city": "Online",
+      "link": "https://2021.jsdc.tw/"
+    },
+    {
+      "year": 2024,
+      "start_date": "2024-12-21",
+      "end_date": "2024-12-21",
+      "city": "Online",
+      "link": "https://2024.jsdc.tw/"
+    },
+    {
+      "year": 2025,
+      "start_date": "2025-11-29",
+      "end_date": "2025-11-29",
+      "city": "Taipei",
+      "venue": "集思台大會議中心",
+      "link": "https://2025.jsdc.tw/"
+    }
+  ]
+}
 ]

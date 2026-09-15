@@ -47,11 +47,12 @@ There is deliberately no separate API-generation layer. The JSON file itself can
 The initial dataset contains 8 conferences:
 
 - COSCUP
-- HITCON
-- PyCon Taiwan
-- Hello World Dev Conference
 - DevOpsDays Taipei
+- Hello World Dev Conference
+- HITCON
+- JSDC
 - MOPCON
+- PyCon Taiwan
 - TCSE
 - SITCON
 
